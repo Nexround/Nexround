@@ -37,7 +37,7 @@ LoKI is a low-damage fine-tuning approach grounded in mechanistic interpretabili
 
 **EMNLP 2026 Main**  
 **Authors:** Runyu Wang, Bo Liu, Xiaxin Zhang, Yu Han, Jiawei Cao, Xiaoye Zhang, Zhe Zhang, Yifan Yang, Peng Ping  
-[[Paper](https://arxiv.org/abs/2608.24758)]
+[[Paper](https://arxiv.org/abs/2608.24758)] [[Code](https://github.com/Nexround/RACE)]
 
 RACE efficiently identifies LLM neurons that exhibit functional consistency within representative corpus domains. By analyzing model residuals, it provides a scalable and cost-effective tool for large-scale model auditing.
 
